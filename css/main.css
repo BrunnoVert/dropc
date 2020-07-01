@@ -1,3 +1,12 @@
+@media (min-width: 1281px) {
+
+  .banner-content {
+    margin-top: -418px !important; 
+
+}
+
+}
+
 .video-sec-area{background-color:#f4f4f4;}
 .text-bg-white{color:#3e3e3e !important;}
 .features-area h4{color:#f8f9fa !important;}
