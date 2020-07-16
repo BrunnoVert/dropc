@@ -167,43 +167,6 @@
 			src="https://www.facebook.com/tr?id=329090758070979&ev=PageView&noscript=1" /></noscript>
 	<!-- End Facebook Pixel Code -->
 
-	<!-- Facebook Pixel Code MARIANNE -->
-	<!-- <script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '657365808439394');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=657365808439394&ev=PageView&noscript=1"
-/></noscript> -->
-	<!-- End Facebook Pixel Code -->
-
-	<!-- Facebook Pixel Code Guillermo -->
-	<script>
-		!function (f, b, e, v, n, t, s) {
-			if (f.fbq) return; n = f.fbq = function () {
-				n.callMethod ?
-					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-			};
-			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-			n.queue = []; t = b.createElement(e); t.async = !0;
-			t.src = v; s = b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t, s)
-		}(window, document, 'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '551717275755517');
-		fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-			src="https://www.facebook.com/tr?id=699988170822277&ev=PageView&noscript=1" /></noscript>
-	<!-- End Facebook Pixel Code Guillermo -->
 
 	<!-- Facebook Pixel Code Vegazcom 5 -->
 	<script>
@@ -304,6 +267,25 @@
 	<noscript><img height="1" width="1" style="display:none"
 			src="https://www.facebook.com/tr?id=699988170822277&ev=PageView&noscript=1" /></noscript>
 	<!-- End Facebook Pixel Code Vegazcom 7 -->
+
+
+	<!-- Facebook Pixel Code Bm Matriz 1 -->
+        <script>
+ 	 !function(f,b,e,v,n,t,s)
+ 	 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+ 	 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+ 	 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+ 	 n.queue=[];t=b.createElement(e);t.async=!0;
+ 	 t.src=v;s=b.getElementsByTagName(e)[0];
+ 	 s.parentNode.insertBefore(t,s)}(window, document,'script',
+ 	 'https://connect.facebook.net/en_US/fbevents.js');
+ 	 fbq('init', '586770442246616');
+ 	 fbq('track', 'PageView');
+        </script>
+	<noscript><img height="1" width="1" style="display:none"
+	  src="https://www.facebook.com/tr?id=586770442246616&ev=PageView&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code Bm Matriz 1 -->
 
 
 	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -433,11 +415,13 @@
 
 <body>
 
+
 	<section class="banner-area" id="home">
+		<img src="img/vegaz.png" style="height:26px;position:fixed; bottom:5px; right:5px; z-index:999;">
 		<div class="container">
 			<div class="row fullscreen d-flex align-items-center justify-content-center">
 				<div class="banner-content col-lg-10">
-					<img src="img/logo.png" style="height: 20px;">
+					<img src="img/logo.png" style="height: 37px;">
 					<h1>
 						Nunca foi tão fácil<br> ter uma câmera de segurança!
 					</h1>
@@ -475,67 +459,70 @@
 
 
 	<!-- Start top-course Area -->
-	<section class="top-course-area section-gap features-area">
-		<div class="container">
-			<div class="row d-flex justify-content-center text-center">
-				<div class="menu-content pb-60 col-lg-10">
-					<div class="title text-center">
-						<h1 class="mb-10">MÚLTIPLAS FUNCIONALIDADES</h1>
-						<p>Simplesmente completa.</p>
+		<section class="top-course-area section-gap features-area">
+			<div class="container">
+				<div class="row d-flex justify-content-center text-center">
+					<div class="menu-content pb-60 col-lg-10">
+						<div class="title text-center">
+							<h1 class="mb-10">MÚLTIPLAS FUNCIONALIDADES</h1>
+							<p>Simplesmente completa.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-center align-items-center text-center">
+					<div class="col-lg-3 course-left">
+
+
+
+						<div class="single-course">
+							<i class="fa fa-globe icon-size"></i>
+							<h4>Sem Limites</h4>
+							<p>
+								Monitore uma ou mais câmeras de qualquer lugar diretamente do seu celular.
+							</p>
+						</div>
+
+
+
+						<div class="single-course">
+							<i class="fa fa-moon-o icon-size"></i>
+							<h4>Visão Noturna</h4>
+							<p>
+								Veja no escuro com a tecnologia de visão noturna.
+							</p>
+						</div>
+
+
+
+					</div>
+					<div class="col-lg-6 course-middle">
+						<img class="img-fluid features-img mx-auto d-block" src="img/c1-min.png" alt="">
+					</div>
+					<div class="col-lg-3 course-right">
+
+
+
+						<div class="single-course">
+							<i class="fa fa-eye icon-size"></i>
+							<h4>Ao Vivo</h4>
+							<p>
+								Tenha acesso as gravações em tempo real.
+							</p>
+						</div>
+
+
+						<div class="single-course">
+							<i class="fa fa-microphone icon-size"></i>
+							<h4>Microfone Embutido</h4>
+							<p>
+								Escute o que está acontecendo em sua casa.
+							</p>
+						</div>
+
 					</div>
 				</div>
 			</div>
-			<div class="row justify-content-center align-items-center text-center">
-				<div class="col-lg-3 course-left">
-
-
-
-					<div class="single-course">
-						<i class="fa fa-globe icon-size"></i>
-						<h4>Sem Limites</h4>
-						<p>
-							Monitore uma ou mais câmeras de qualquer lugar diretamente do seu celular.
-						</p>
-					</div>
-
-					<div class="single-course">
-						<i class="fa fa-shield icon-size"></i>
-						<h4>Sensor de Movimento</h4>
-						<p>
-							Receba notificações ou grave somente quando houver movimento.
-						</p>
-					</div>
-
-
-
-
-				</div>
-				<div class="col-lg-6 course-middle">
-					<img class="img-fluid features-img mx-auto d-block" src="img/c1-min.png" alt="">
-				</div>
-				<div class="col-lg-3 course-right">
-					<div class="single-course">
-						<i class="fa fa-moon-o icon-size"></i>
-						<h4>Visão Noturna</h4>
-						<p>
-							Veja no escuro com a tecnologia de visão noturna.
-						</p>
-					</div>
-
-
-
-					<div class="single-course">
-						<i class="fa fa-microphone icon-size"></i>
-						<h4>Microfone Embutido</h4>
-						<p>
-							Escute o que está acontecendo em sua casa.
-						</p>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</section>
+		</section>
 	<!-- End top-course Area -->
 
 
@@ -560,6 +547,8 @@
 				</div>
 			</div>
 			<div class="row">
+
+
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service">
 						<h4><i class="fa fa-magnet mr-3"></i>Imã Pads</h4>
@@ -568,6 +557,17 @@
 						</p>
 					</div>
 				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service">
+						<h4><i class="fa fa-shield mr-3"></i>Sensor de Movimento</h4>
+						<p>
+							Receba notificações ou grave somente quando houver movimento.
+						</p>
+
+					</div>
+				</div>
+
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service">
 						<h4><i class="fa fa-eye mr-3"></i></span>Lentes UltraWide</h4>
@@ -577,20 +577,30 @@
 						</p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<!-- <div class="col-lg-3 col-md-6">
 					<div class="single-service">
 						<h4><i class="fa fa-check-square-o mr-3"></i>Sem Instalações</h4>
 						<p>
 							Você não precisa de um técnico para realizar a instalação.
 						</p>
 					</div>
-				</div>
+				</div> -->
 
 				<div class="col-lg-3 col-md-6">
 					<div class="single-service">
 						<h4><i class="fa fa-street-view mr-3"></i>Suporte Articulado</h4>
 						<p>
 							O suporte move para todos os ângulos e direções, gruda em muros e paredes.
+						</p>
+
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service">
+						<h4><i class="fa fa-backward mr-3"></i>Armazenamento</h4>
+						<p>
+							Acesse as imagens armazenadas diretamente de seu celular.
 						</p>
 
 					</div>
@@ -605,6 +615,8 @@
 
 					</div>
 				</div>
+
+
 
 
 
@@ -801,7 +813,7 @@
 				<div class="menu-content pb-60 col-lg-10">
 					<div class="title text-center">
 						<h1 class="mb-10">O que nossos clientes estão pensando?</h1>
-						<p>Nos envie uma avaliação também, ficamos muito agradecidos!</p>
+						<p>Nos envie uma avaliação também!</p>
 
 					</div>
 				</div>
@@ -829,7 +841,7 @@
 					<div class="single-review">
 						<h4>Luiz Rosa</h4>
 						<p>
-							Veio bem embalado
+							Muito bem embalado
 						</p>
 						<div class="star">
 							<span class="fa fa-star checked"></span>
@@ -893,7 +905,7 @@
 					<div class="single-review">
 						<h4>Cadu Amaral</h4>
 						<p>
-							Muito atenciosos no atendimento.
+
 						</p>
 						<div class="star">
 							<span class="fa fa-star checked"></span>
@@ -1200,7 +1212,7 @@
 							<div id="collapseThree" class="collapse" aria-labelledby="headingThree"
 								data-parent="#accordion">
 								<div class="card-body">
-									Recomendamos o aplicativo HDWiFiCamPro, compatível com iOS e Android.
+									Recomendamos o aplicativo V380 Pro, compatível com iOS e Android.
 								</div>
 							</div>
 						</div>
@@ -1226,7 +1238,7 @@
 										<li>•American Express</li>
 										<li>•Diners</li>
 										<li>•Elo</li>
-										<li>•Cartão MercadoLivre</li>
+
 									</ul>
 								</div>
 							</div>
@@ -1234,10 +1246,11 @@
 					</div>
 				</div>
 			</div>
-			<a href="https://api.whatsapp.com/send?phone=11996644255&text=Ol%C3%A1,%20estou%20com%20uma%20d%C3%BAvida%20sobre%20a%20Drop%20Cam..."
+		<!--	<a href="https://api.whatsapp.com/send?phone=5511996644255&text=Ol%C3%A1,%20estou%20com%20uma%20d%C3%BAvida%20sobre%20a%20Drop%20Cam..."
 				class="float" target="_blank">
 				<i class="fa fa-whatsapp my-float"></i>
 			</a>
+		-->
 
 		</div>
 	</section>
@@ -1284,6 +1297,16 @@
 	<!-- End footer Area -->
 
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
+
+	<!-- FIX FOR INSTA WEBVIEW -->
+	<script type="text/javascript">
+		// if (window.innerHeight === window.screen.height && navigator.userAgent.match(/instagram/i)) {
+		var window_height = $(window).height();
+		$(".fullscreen").css("height", window_height)
+			// }
+	</script>
+	<!-- FIX FOR INSTA WEBVIEW -->
+
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
 		integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
 		crossorigin="anonymous"></script>
