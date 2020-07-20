@@ -20,7 +20,7 @@
 .features-area h1{color:#e9ecef;}
 .top-course-area p{color:#f5f5f7;}
 .text-bg-dark{color:#f0f0f0;}
-.single-footer-img{background-image:url("../img/mercadopago2.png");background-size:contain;background-repeat:no-repeat;padding:8vw;background-position: center;}
+.single-footer-img{background-image:url("../img/mercadopago2.png");background-size:contain;background-repeat:no-repeat;padding:8vw;background-position: center;background-position: center;}
 .trustbadges{background-image:url("../img/trustbadges.png");background-size:contain;background-repeat:no-repeat;padding:8vw;}
 .button-custom{background:#ff80e7;border:1px solid transparent;color:#fff;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border-radius:50px;line-height:36px;}
 .button-custom:focus{outline:none;}
