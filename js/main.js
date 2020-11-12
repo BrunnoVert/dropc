@@ -1,8 +1,8 @@
 
 $(document).ready(function(){
-	"use strict";
-
-     if(document.getElementById("default-select")){
+  "use strict";
+  
+    if (document.getElementById("default-select")){
           $('select').niceSelect();
     };
 
@@ -22,7 +22,7 @@ $(document).ready(function(){
         fixedContentPos: false
     });
  
-
+    
 
   // Initiate superfish on nav menu
   $('.nav-menu').superfish({
@@ -240,8 +240,4 @@ $(document).ready(function(){
         $(document).ready(function() {
             $('#mc_embed_signup').find('form').ajaxChimp();
         });      
-
-
-
-
  });
